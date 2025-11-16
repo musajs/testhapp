@@ -1,2 +1,2 @@
 #profile-web-page-url: https://shop.musacrm.ru/payment/app/tariffs/?task=54854&returnUrl=https://wa.me/79387856668
-vless://f4fffa57-f864-498c-8faa-8c1ce7e66bf6@s59.whitemight.ru:443?type=tcp&...#МойVPN
+vless://f4fffa57-f864-498c-8faa-8c1ce7e66bf6@s59.whitemight.ru:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=http%2F1.1&ech=AFP%2BDQBPAAAgACDTR%2BIc%2B2xzzQ6%2F7FEr4mUWGmuvCoOq6pHV6rlKQMsgEAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%3D%3D#8h6b0orm
